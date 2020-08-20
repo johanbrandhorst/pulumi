@@ -1,0 +1,3 @@
+name: hetzner-vm
+runtime: go
+description: Manage my Hetzner VM
